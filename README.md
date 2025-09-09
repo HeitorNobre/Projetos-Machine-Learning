@@ -43,7 +43,7 @@ A proposta é explorar desde modelos estatísticos clássicos até técnicas mai
 
 - **Linguagem:** Python  
 - **Bibliotecas:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels  
-- **Ambiente:** Jupyter Notebook  
+- **Ambiente:** Jupyter Notebook e google colab 
 
 ---
 
